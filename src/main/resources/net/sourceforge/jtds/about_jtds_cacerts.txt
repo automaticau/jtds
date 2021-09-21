@@ -1,0 +1,8 @@
+### Extraction history
+
+# 1
+- Where : https://cdn.azul.com/zulu/bin/zulu15.28.51-ca-jdk15.0.1-win_x64.zip
+- When : 2020-12-18 09:19:00 AEST
+- JKS file size (original) : 169417 bytes (MD5 File Checksum : 41fa08ea1ac6766d12cd67fcddb4d7f0)
+- BKS file size : 169586 bytes (MD5 File Checksum : cf168d2d41150318fefdc665ff45cf25)
+- Converting tool : KeyStore Explorer 5.4.4
